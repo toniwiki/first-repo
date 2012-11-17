@@ -1,4 +1,4 @@
 first-repo
 ==========
 
-Repo test
+This is a repo test, hello world type.
